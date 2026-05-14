@@ -1,4 +1,4 @@
-# Exercício 04: Simulação de Movimentação de Sonda - 2D
+# Exercício 01: Simulação de Movimentação de Sonda - 2D
 
 Este projeto consiste em uma função que simula o deslocamento de uma sonda em um plano bidimensional, utilizando manipulação de ponteiros para atualizar as coordenadas de localização no espaço.
 
